@@ -18,7 +18,7 @@ spring:
       server:
         encrypt.enabled: false
         git:
-          uri: https://github.com/genhaojiu/config-repo/
+          uri: https://github.com/genhaojiu/config-repo.git
           searchPaths: licensingservice,organizationservice
           username: genhaojiu
           password: bjTU654321
